@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "134477332883",
+    "project_id": "yemeklik-dfce3",
+    "storage_bucket": "yemeklik-dfce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134477332883:android:4c271778cc905d1e082866",
+        "android_client_info": {
+          "package_name": "com.yasinseven.yemeklik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134477332883-4bq7ltda5c84iqmrbsi9qbltc97q66v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yasinseven.yemeklik",
+            "certificate_hash": "bfb8731b48b44d18c965a6997ea08011dd1f9ef9"
+          }
+        },
+        {
+          "client_id": "134477332883-ps36dkqofuc1rs11d0v0melqviuunvqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYJ3_F7tjIntW8IWHiA8YtskokUB05uWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134477332883-ps36dkqofuc1rs11d0v0melqviuunvqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
